@@ -50,7 +50,7 @@ main(){
     FILES=("${ALLOWEDFILES[@]}"); 
 
     for target in "${FILES[@]}"; do 
-        cp ../articles/"${target}.txt" .
+        cp ../文章/"${target}.txt" .
         generate "$target" > /dev/null
         deploylocal "$target"
     done

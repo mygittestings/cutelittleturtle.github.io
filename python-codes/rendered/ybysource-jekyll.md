@@ -55,13 +55,14 @@ tags:
 
 # MV
 <div id = "bqdark" markdown="1">
-1. [**超能太阳鸭－早安梦幻岛MV**](https://www.bilibili.com/video/av15490528/){:target="_blank"}
-2. [**SNH48 第四次总决选TOP32汇报MV《绚丽时代》**](https://www.bilibili.com/video/av15316764/){:target="_blank"}
-3. [SNH48 第四次总决选TOP32“高飞组”《绚丽时代》舞蹈版MV](https://www.bilibili.com/video/av15446196/){:target="_blank"}
-4. [《歌唱祖国》MV 为祖国母亲献礼](https://www.bilibili.com/video/av15236439){:target="_blank"}
-5. [【总选PV】 杨冰怡 宋昕冉 初恋蝴蝶](https://www.bilibili.com/video/av12203146/){:target="_blank"}
-6. [【偶像自制】【会玩儿不过偶像系列】——跳舞确定；不如跳舞](https://www.bilibili.com/video/av4991121/){:target="_blank"}
-7. [【预告】SNH48 “荣耀之巅，我心翱翔” 30s对决预告](https://www.bilibili.com/video/av12564200/){:target="_blank"}
+1. [**总决选TOP32汇报MV《绚丽时代》拍摄花絮**](https://www.bilibili.com/video/av15683021/){:target="_blank"}
+2. [**超能太阳鸭－早安梦幻岛MV**](https://www.bilibili.com/video/av15490528/){:target="_blank"}
+3. [SNH48 第四次总决选TOP32汇报MV《绚丽时代》](https://www.bilibili.com/video/av15316764/){:target="_blank"}
+4. [SNH48 第四次总决选TOP32“高飞组”《绚丽时代》舞蹈版MV](https://www.bilibili.com/video/av15446196/){:target="_blank"}
+5. [《歌唱祖国》MV 为祖国母亲献礼](https://www.bilibili.com/video/av15236439){:target="_blank"}
+6. [【总选PV】 杨冰怡 宋昕冉 初恋蝴蝶](https://www.bilibili.com/video/av12203146/){:target="_blank"}
+7. [【偶像自制】【会玩儿不过偶像系列】——跳舞确定；不如跳舞](https://www.bilibili.com/video/av4991121/){:target="_blank"}
+8. [【预告】SNH48 “荣耀之巅，我心翱翔” 30s对决预告](https://www.bilibili.com/video/av12564200/){:target="_blank"}
 </div>
 
 &nbsp;
