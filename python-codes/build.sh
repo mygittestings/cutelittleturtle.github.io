@@ -19,6 +19,7 @@ generate() # need 1 argument
         cd fullshow/
         cat waiwu.txt special.txt qizhi.txt 18s.txt k5.txt k4.txt > full.txt
         cp full.txt ../${target}.txt
+        cd ..
         python3 addurlblock2line.py -i ${target}.txt
         cat sources/${target}.head hexo.txt sources/ybygongyanwiki.md > rendered/${target}-hexo.md
         cat sources/${target}.head jekyll.txt sources/ybygongyanwiki.md > rendered/${target}-jekyll.md
