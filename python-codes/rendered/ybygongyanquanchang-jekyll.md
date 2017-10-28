@@ -26,6 +26,13 @@ SNH48 Team X 公演补档专用 (╯°Д°）╯
 
 &nbsp;
 
+# **置顶【人工置顶】**
+<div id = "bqdark" markdown="1">
+1. [【SNH48 TeamX 应援会】TeamX四期出道一千天纪念视频](https://www.bilibili.com/video/av15763000/){:target="_blank"}
+</div>
+
+&nbsp;
+
 # 演出
 <div id = "bqdark" markdown="1">
 1. [20171020 星梦Mini Live：孙歆文](https://www.bilibili.com/video/av15567256/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA5ODUzMTY2OA==.html){:target="_blank"}
@@ -75,65 +82,66 @@ SNH48 Team X 公演补档专用 (╯°Д°）╯
 
 # 梦想的旗帜
 <div id = "bqdark" markdown="1">
-1. [20171018 TeamX《梦想的旗帜》第五十九场](https://www.bilibili.com/video/av15517901/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA5NDM3NzA3Mg==.html){:target="_blank"}
-2. [20171014 TeamX《梦想的旗帜》第五十八场](https://www.bilibili.com/video/av15396486/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA4Njc4MDEwOA==.html){:target="_blank"}
-3. [20171012 TeamX《梦想的旗帜》第五十七场](https://www.bilibili.com/video/av15330067/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA4MTUzOTk0OA==.html){:target="_blank"}
-4. [20171002 TeamX《梦想的旗帜》第五十六场杨冰怡生日公演&生日会](https://www.bilibili.com/video/av15005361/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA2MjY1MjA2NA==.html){:target="_blank"}
-5. [20170924 SNH48 TeamX《梦想的旗帜》第五十四场公演](https://www.bilibili.com/video/av14770340/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA0NDgwNDUwNA==.html){:target="_blank"}
-6. [20170922 SNH48 TeamX《梦想的旗帜》第五十三场公演](https://www.bilibili.com/video/av14698623/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA0MDIzNTI3Mg==.html){:target="_blank"}
-7. [20170916 SNH48 TeamX《梦想的旗帜》第五十二场暨杨韫玉生日主题公演](https://www.bilibili.com/video/av14462934/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzAyODA0OTkzNg==.html){:target="_blank"}
-8. [20170914 SNH48 TeamX《梦想的旗帜》第五十一场公演](https://www.bilibili.com/video/av14462934/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzAyNDIwNTg2NA==.html){:target="_blank"}
-9. [20170830 SNH48 TeamX《梦想的旗帜》第五十场公演](https://www.bilibili.com/video/av14007830/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMjk5ODc5MzE3Mg==.html){:target="_blank"}
-10. [20170820 SNH48 TeamX《梦想的旗帜》第四十九场公演](https://www.bilibili.com/video/av13607994/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk4MTg2MzgwMA==.html){:target="_blank"}
-11. [20170813 SNH48 TeamX《梦想的旗帜》第四十八场暨陈琳生日主题公演](https://www.bilibili.com/video/av13319297/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk2Njg1NTM3Ng==.html){:target="_blank"}
-12. [20170812 SNH48 TeamX《梦想的旗帜》第四十七场暨汪束生日主题公演](https://www.bilibili.com/video/av13282853/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk2NDMzODQ1Ng==.html){:target="_blank"}
-13. [20170806 SNH48 TeamX《梦想的旗帜》第四十六场暨林忆宁生日主题公演](https://www.bilibili.com/video/av13049537/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk0OTYwNDcxNg==.html){:target="_blank"}
-14. [20170805 SNH48 TeamX《梦想的旗帜》第四十五场暨祁静生日主题公演](https://www.bilibili.com/video/av12997368/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk0Nzc0Nzk0NA==.html){:target="_blank"}
-15. [20170723 SNH48 TeamX《梦想的旗帜》第四十四场暨汪佳翎第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12541944/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjkxNDYwMzk1Mg==.html){:target="_blank"}
-16. [20170722 SNH48 TeamX《梦想的旗帜》第四十三场暨宋昕冉第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12485315/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjkxMjQ1NzA0MA==.html){:target="_blank"}
-17. [20170716 SNH48 TeamX《梦想的旗帜》第四十二场暨张嘉予第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12271010/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg5NTYwMDgyNA==.html){:target="_blank"}
-18. [20170713 SNH48 TeamX《梦想的旗帜》第四十一场暨林忆宁第四届总决选拉票公演](https://www.bilibili.com/video/av12265257/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg4OTQwMzkwOA==.html){:target="_blank"}
-19. [20170708 SNH48 TeamX《梦想的旗帜》第四十场暨李钊第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12016204/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg3ODE5NjgxNg==.html){:target="_blank"}
-20. [20170706 SNH48 TeamX《梦想的旗帜》第三十九场暨陈琳 祁静第四届总决选拉票公演](https://www.bilibili.com/video/av11958260/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg3MzQxODE4MA==.html){:target="_blank"}
-21. [20170702 SNH48 TeamX《梦想的旗帜》第三十八场暨张丹三第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av11820083){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg2ODE4NTM2NA==.html){:target="_blank"}
-22. [20170625 SNH48 TeamX《梦想的旗帜》第三十七场暨王晓佳第四届总决选拉票&生日主题公演](https://www.bilibili.com/video/av11622016/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg1MzgzNjQ4NA==.html){:target="_blank"}
-23. [20170624 SNH48 TeamX《梦想的旗帜》第三十六场暨谢天依第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av11630366/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg0Nzk1Mzg0MA==.html){:target="_blank"}
-24. [20170618 SNH48 TeamX《梦想的旗帜》第三十五场公演暨第四届总决选速报](https://www.bilibili.com/video/av11438549/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjgzODEyOTk0OA==.html){:target="_blank"}
-25. [20170611 SNH48 TeamX《梦想的旗帜》第三十四场暨李晶第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av11253648/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjgxODg2NzAzNg==.html){:target="_blank"}
-26. [20170610 SNH48 TeamX《梦想的旗帜》第三十三场暨冯晓菲 姚祎纯第四届总决选拉票公演](https://www.bilibili.com/video/av11229962/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjgxNjcxMDU0MA==.html){:target="_blank"}
-27. [20170529 SNH48 TeamX《梦想的旗帜》第三十二场公演](https://www.bilibili.com/video/av10914272/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc5OTMwNzY1Ng==.html){:target="_blank"}
-28. [20170518 SNH48 TeamX《梦想的旗帜》第三十一场公演](https://www.bilibili.com/video/av10650440/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc3MjQwNjUyMA==.html){:target="_blank"}
-29. [20170514 SNH48 TeamX《梦想的旗帜》第三十场暨姚祎纯生日主题公演](https://www.bilibili.com/video/av10566212/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc2NjM1NDIyNA==.html){:target="_blank"}
-30. [20170511 SNH48 TeamX《梦想的旗帜》第二十九场公演](https://www.bilibili.com/video/av10484197/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc1ODUyNzE3Ng==.html){:target="_blank"}
-31. [20170506 SNH48 TeamX《梦想的旗帜》第二十八场暨北京星梦剧院公演](https://www.bilibili.com/video/av10355093/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc0ODYwMjgzMg==.html){:target="_blank"}
-32. [20170505 SNH48 TeamX《梦想的旗帜》第二十七场暨北京星梦剧院公演](https://www.bilibili.com/video/av10338417/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc0NzMwMjcyNA==.html){:target="_blank"}
-33. [20170427 SNH48 TeamX《梦想的旗帜》第二十六场公演](https://www.bilibili.com/video/av10138835/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjczMjczNzkwOA==.html){:target="_blank"}
-34. [20170423 SNH48 TeamX《梦想的旗帜》第二十五场公演](https://www.bilibili.com/video/av10049525/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjcyNDc3NzA5Ng==.html){:target="_blank"}
-35. [201704013 SNH48 TeamX《梦想的旗帜》第二十四场公演](https://www.bilibili.com/video/av9816133/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjcwNjYxNTYyNA==.html){:target="_blank"}
-36. [20170402 SNH48 TeamX《梦想的旗帜》第二十三场 X队成立两周年特别公演](https://www.bilibili.com/video/av9560728/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjcwMjE4MDc0NA==.html){:target="_blank"}
-37. [20170330 SNH48 TeamX《梦想的旗帜》第二十二场 沈阳巡演全程](https://www.bilibili.com/video/av9493906/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY5MzAzM){:target="_blank"}
-38. [20170329 SNH48 TeamX《梦想的旗帜》第二十一场暨沈阳星梦剧院公演](https://www.bilibili.com/video/av9472472/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY3NTY4MDg5Mg==.html){:target="_blank"}
-39. [20170323 SNH48 TeamX《梦想的旗帜》第二十场公演](https://www.bilibili.com/video/av9348271/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY1ODY1MjQ3Mg==.html){:target="_blank"}
-40. [20170319 SNH48 TeamX《梦想的旗帜》第十九场公演](https://www.bilibili.com/video/av9265585/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY1MDYxOTM2OA==.html){:target="_blank"}
-41. [20170317 SNH48 TeamX《梦想的旗帜》第十八场公演](https://www.bilibili.com/video/av9220140/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY0NjQ2MTEwNA==.html){:target="_blank"}
-42. [20170304 SNH48 TeamX《梦想的旗帜》第十七场公演](https://www.bilibili.com/video/av8963924/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjU4NDA1MDExNg==.html){:target="_blank"}
-43. [20170223 SNH48 TeamX《梦想的旗帜》第十六场公演](https://www.bilibili.com/video/av8789055/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUyNzY4NTIzMg==.html){:target="_blank"}
-44. [20170217 SNH48 TeamX《梦想的旗帜》第十五场公演](https://www.bilibili.com/video/av8675915/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUxNzYwNDQ3Mg==.html){:target="_blank"}
-45. [20170210 SNH48 TeamX《梦想的旗帜》第十四场公演](https://www.bilibili.com/video/av8531409/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUwNjE1N==.html){:target="_blank"}
-46. [20170209 SNH48 TeamX《梦想的旗帜》第十三场公演](https://www.bilibili.com/video/av8511258/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUwNDQ2MzUyMA==.html){:target="_blank"}
-47. [20161228 SNH48 TeamX《梦想的旗帜》第十二场公演](https://www.bilibili.com/video/av7739508/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg4ODQxOTg3Mg==.html){:target="_blank"}
-48. [20161222 SNH48 TeamX 《梦想的旗帜》第十一场公演](https://www.bilibili.com/video/av7645857/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg3ODI1MDA4MA==.html){:target="_blank"}
-49. [20161217 SNH48 TeamX《梦想的旗帜》第十场暨圣诞主题公演](https://www.bilibili.com/video/av7565204/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg3MDE4NjAzNg==.html){:target="_blank"}
-50. [20161211 SNH48 TeamX《梦想的旗帜》第九场公演](https://www.bilibili.com/video/av7463386/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg2MDQyMzA2NA==.html){:target="_blank"}
-51. [20161210 SNH48 TeamX《梦想的旗帜》第八场公演](https://www.bilibili.com/video/av7463386/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg1ODk0ODU1Mg==.html){:target="_blank"}
-52. [20161201 SNH48 TeamX《梦想的旗帜》第七场公演](https://www.bilibili.com/video/av7336384/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg0NTAyMzI3Ng==.html){:target="_blank"}
-53. [20161127 SNH48 TeamX《梦想的旗帜》第六场暨孙歆文生日主题公演](https://www.bilibili.com/video/av7278746/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTgzODU3OTMwMA==.html){:target="_blank"}
-54. [20161116 SNH48 TeamX《梦想的旗帜》第五场公演](https://www.bilibili.com/video/av7127490/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTgyMjI1MDg3Ng==.html){:target="_blank"}
-55. [20161110 SNH48 TeamX《梦想的旗帜》第四场公演](https://www.bilibili.com/video/av7041631/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTgxNDI5ODc4OA==.html){:target="_blank"}
-56. [20161030 SNH48 TeamX《梦想的旗帜》第三场公演](https://www.bilibili.com/video/av6894721/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc4MTE2ODU0MA==.html){:target="_blank"}
-57. [20161029 SNH48 TeamX《梦想的旗帜》第二场暨冯晓菲生日主题公演](https://www.bilibili.com/video/av6879504/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc3OTkyMzE3Ng==.html){:target="_blank"}
-58. [20161028 SNH TeamX《梦想的旗帜》首演 + 第三届年度金曲大赏BEST50中报](https://www.bilibili.com/video/av6862467/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc3ODQwMTEwNA==.html){:target="_blank"}
-59. [《梦想的旗帜》宣传片](https://www.bilibili.com/video/av6718977/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc2MzQ4MjMxMg==.html){:target="_blank"}
+1. [20171018 TeamX《梦想的旗帜》第五十九场 特殊UNIT](https://www.bilibili.com/video/av15719659/){:target="_blank"}
+2. [20171018 TeamX《梦想的旗帜》第五十九场](https://www.bilibili.com/video/av15517901/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA5NDM3NzA3Mg==.html){:target="_blank"}
+3. [20171014 TeamX《梦想的旗帜》第五十八场](https://www.bilibili.com/video/av15396486/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA4Njc4MDEwOA==.html){:target="_blank"}
+4. [20171012 TeamX《梦想的旗帜》第五十七场](https://www.bilibili.com/video/av15330067/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA4MTUzOTk0OA==.html){:target="_blank"}
+5. [20171002 TeamX《梦想的旗帜》第五十六场杨冰怡生日公演&生日会](https://www.bilibili.com/video/av15005361/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA2MjY1MjA2NA==.html){:target="_blank"}
+6. [20170924 SNH48 TeamX《梦想的旗帜》第五十四场公演](https://www.bilibili.com/video/av14770340/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA0NDgwNDUwNA==.html){:target="_blank"}
+7. [20170922 SNH48 TeamX《梦想的旗帜》第五十三场公演](https://www.bilibili.com/video/av14698623/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzA0MDIzNTI3Mg==.html){:target="_blank"}
+8. [20170916 SNH48 TeamX《梦想的旗帜》第五十二场暨杨韫玉生日主题公演](https://www.bilibili.com/video/av14462934/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzAyODA0OTkzNg==.html){:target="_blank"}
+9. [20170914 SNH48 TeamX《梦想的旗帜》第五十一场公演](https://www.bilibili.com/video/av14462934/){:target="_blank"},     [优酷](http://v.youku.com/v_show/id_XMzAyNDIwNTg2NA==.html){:target="_blank"}
+10. [20170830 SNH48 TeamX《梦想的旗帜》第五十场公演](https://www.bilibili.com/video/av14007830/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk5ODc5MzE3Mg==.html){:target="_blank"}
+11. [20170820 SNH48 TeamX《梦想的旗帜》第四十九场公演](https://www.bilibili.com/video/av13607994/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk4MTg2MzgwMA==.html){:target="_blank"}
+12. [20170813 SNH48 TeamX《梦想的旗帜》第四十八场暨陈琳生日主题公演](https://www.bilibili.com/video/av13319297/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk2Njg1NTM3Ng==.html){:target="_blank"}
+13. [20170812 SNH48 TeamX《梦想的旗帜》第四十七场暨汪束生日主题公演](https://www.bilibili.com/video/av13282853/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk2NDMzODQ1Ng==.html){:target="_blank"}
+14. [20170806 SNH48 TeamX《梦想的旗帜》第四十六场暨林忆宁生日主题公演](https://www.bilibili.com/video/av13049537/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk0OTYwNDcxNg==.html){:target="_blank"}
+15. [20170805 SNH48 TeamX《梦想的旗帜》第四十五场暨祁静生日主题公演](https://www.bilibili.com/video/av12997368/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjk0Nzc0Nzk0NA==.html){:target="_blank"}
+16. [20170723 SNH48 TeamX《梦想的旗帜》第四十四场暨汪佳翎第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12541944/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjkxNDYwMzk1Mg==.html){:target="_blank"}
+17. [20170722 SNH48 TeamX《梦想的旗帜》第四十三场暨宋昕冉第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12485315/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjkxMjQ1NzA0MA==.html){:target="_blank"}
+18. [20170716 SNH48 TeamX《梦想的旗帜》第四十二场暨张嘉予第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12271010/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg5NTYwMDgyNA==.html){:target="_blank"}
+19. [20170713 SNH48 TeamX《梦想的旗帜》第四十一场暨林忆宁第四届总决选拉票公演](https://www.bilibili.com/video/av12265257/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg4OTQwMzkwOA==.html){:target="_blank"}
+20. [20170708 SNH48 TeamX《梦想的旗帜》第四十场暨李钊第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av12016204/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg3ODE5NjgxNg==.html){:target="_blank"}
+21. [20170706 SNH48 TeamX《梦想的旗帜》第三十九场暨陈琳 祁静第四届总决选拉票公演](https://www.bilibili.com/video/av11958260/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg3MzQxODE4MA==.html){:target="_blank"}
+22. [20170702 SNH48 TeamX《梦想的旗帜》第三十八场暨张丹三第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av11820083){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg2ODE4NTM2NA==.html){:target="_blank"}
+23. [20170625 SNH48 TeamX《梦想的旗帜》第三十七场暨王晓佳第四届总决选拉票&生日主题公演](https://www.bilibili.com/video/av11622016/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg1MzgzNjQ4NA==.html){:target="_blank"}
+24. [20170624 SNH48 TeamX《梦想的旗帜》第三十六场暨谢天依第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av11630366/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjg0Nzk1Mzg0MA==.html){:target="_blank"}
+25. [20170618 SNH48 TeamX《梦想的旗帜》第三十五场公演暨第四届总决选速报](https://www.bilibili.com/video/av11438549/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjgzODEyOTk0OA==.html){:target="_blank"}
+26. [20170611 SNH48 TeamX《梦想的旗帜》第三十四场暨李晶第四届总决选拉票 生日主题公演](https://www.bilibili.com/video/av11253648/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjgxODg2NzAzNg==.html){:target="_blank"}
+27. [20170610 SNH48 TeamX《梦想的旗帜》第三十三场暨冯晓菲 姚祎纯第四届总决选拉票公演](https://www.bilibili.com/video/av11229962/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjgxNjcxMDU0MA==.html){:target="_blank"}
+28. [20170529 SNH48 TeamX《梦想的旗帜》第三十二场公演](https://www.bilibili.com/video/av10914272/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc5OTMwNzY1Ng==.html){:target="_blank"}
+29. [20170518 SNH48 TeamX《梦想的旗帜》第三十一场公演](https://www.bilibili.com/video/av10650440/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc3MjQwNjUyMA==.html){:target="_blank"}
+30. [20170514 SNH48 TeamX《梦想的旗帜》第三十场暨姚祎纯生日主题公演](https://www.bilibili.com/video/av10566212/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc2NjM1NDIyNA==.html){:target="_blank"}
+31. [20170511 SNH48 TeamX《梦想的旗帜》第二十九场公演](https://www.bilibili.com/video/av10484197/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc1ODUyNzE3Ng==.html){:target="_blank"}
+32. [20170506 SNH48 TeamX《梦想的旗帜》第二十八场暨北京星梦剧院公演](https://www.bilibili.com/video/av10355093/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc0ODYwMjgzMg==.html){:target="_blank"}
+33. [20170505 SNH48 TeamX《梦想的旗帜》第二十七场暨北京星梦剧院公演](https://www.bilibili.com/video/av10338417/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjc0NzMwMjcyNA==.html){:target="_blank"}
+34. [20170427 SNH48 TeamX《梦想的旗帜》第二十六场公演](https://www.bilibili.com/video/av10138835/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjczMjczNzkwOA==.html){:target="_blank"}
+35. [20170423 SNH48 TeamX《梦想的旗帜》第二十五场公演](https://www.bilibili.com/video/av10049525/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjcyNDc3NzA5Ng==.html){:target="_blank"}
+36. [201704013 SNH48 TeamX《梦想的旗帜》第二十四场公演](https://www.bilibili.com/video/av9816133/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjcwNjYxNTYyNA==.html){:target="_blank"}
+37. [20170402 SNH48 TeamX《梦想的旗帜》第二十三场 X队成立两周年特别公演](https://www.bilibili.com/video/av9560728/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjcwMjE4MDc0NA==.html){:target="_blank"}
+38. [20170330 SNH48 TeamX《梦想的旗帜》第二十二场 沈阳巡演全程](https://www.bilibili.com/video/av9493906/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY5MzAzM){:target="_blank"}
+39. [20170329 SNH48 TeamX《梦想的旗帜》第二十一场暨沈阳星梦剧院公演](https://www.bilibili.com/video/av9472472/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY3NTY4MDg5Mg==.html){:target="_blank"}
+40. [20170323 SNH48 TeamX《梦想的旗帜》第二十场公演](https://www.bilibili.com/video/av9348271/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY1ODY1MjQ3Mg==.html){:target="_blank"}
+41. [20170319 SNH48 TeamX《梦想的旗帜》第十九场公演](https://www.bilibili.com/video/av9265585/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY1MDYxOTM2OA==.html){:target="_blank"}
+42. [20170317 SNH48 TeamX《梦想的旗帜》第十八场公演](https://www.bilibili.com/video/av9220140/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjY0NjQ2MTEwNA==.html){:target="_blank"}
+43. [20170304 SNH48 TeamX《梦想的旗帜》第十七场公演](https://www.bilibili.com/video/av8963924/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjU4NDA1MDExNg==.html){:target="_blank"}
+44. [20170223 SNH48 TeamX《梦想的旗帜》第十六场公演](https://www.bilibili.com/video/av8789055/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUyNzY4NTIzMg==.html){:target="_blank"}
+45. [20170217 SNH48 TeamX《梦想的旗帜》第十五场公演](https://www.bilibili.com/video/av8675915/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUxNzYwNDQ3Mg==.html){:target="_blank"}
+46. [20170210 SNH48 TeamX《梦想的旗帜》第十四场公演](https://www.bilibili.com/video/av8531409/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUwNjE1N==.html){:target="_blank"}
+47. [20170209 SNH48 TeamX《梦想的旗帜》第十三场公演](https://www.bilibili.com/video/av8511258/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMjUwNDQ2MzUyMA==.html){:target="_blank"}
+48. [20161228 SNH48 TeamX《梦想的旗帜》第十二场公演](https://www.bilibili.com/video/av7739508/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg4ODQxOTg3Mg==.html){:target="_blank"}
+49. [20161222 SNH48 TeamX 《梦想的旗帜》第十一场公演](https://www.bilibili.com/video/av7645857/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg3ODI1MDA4MA==.html){:target="_blank"}
+50. [20161217 SNH48 TeamX《梦想的旗帜》第十场暨圣诞主题公演](https://www.bilibili.com/video/av7565204/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg3MDE4NjAzNg==.html){:target="_blank"}
+51. [20161211 SNH48 TeamX《梦想的旗帜》第九场公演](https://www.bilibili.com/video/av7463386/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg2MDQyMzA2NA==.html){:target="_blank"}
+52. [20161210 SNH48 TeamX《梦想的旗帜》第八场公演](https://www.bilibili.com/video/av7463386/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg1ODk0ODU1Mg==.html){:target="_blank"}
+53. [20161201 SNH48 TeamX《梦想的旗帜》第七场公演](https://www.bilibili.com/video/av7336384/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTg0NTAyMzI3Ng==.html){:target="_blank"}
+54. [20161127 SNH48 TeamX《梦想的旗帜》第六场暨孙歆文生日主题公演](https://www.bilibili.com/video/av7278746/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTgzODU3OTMwMA==.html){:target="_blank"}
+55. [20161116 SNH48 TeamX《梦想的旗帜》第五场公演](https://www.bilibili.com/video/av7127490/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTgyMjI1MDg3Ng==.html){:target="_blank"}
+56. [20161110 SNH48 TeamX《梦想的旗帜》第四场公演](https://www.bilibili.com/video/av7041631/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTgxNDI5ODc4OA==.html){:target="_blank"}
+57. [20161030 SNH48 TeamX《梦想的旗帜》第三场公演](https://www.bilibili.com/video/av6894721/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc4MTE2ODU0MA==.html){:target="_blank"}
+58. [20161029 SNH48 TeamX《梦想的旗帜》第二场暨冯晓菲生日主题公演](https://www.bilibili.com/video/av6879504/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc3OTkyMzE3Ng==.html){:target="_blank"}
+59. [20161028 SNH TeamX《梦想的旗帜》首演 + 第三届年度金曲大赏BEST50中报](https://www.bilibili.com/video/av6862467/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc3ODQwMTEwNA==.html){:target="_blank"}
+60. [《梦想的旗帜》宣传片](https://www.bilibili.com/video/av6718977/){:target="_blank"},      [优酷](http://v.youku.com/v_show/id_XMTc2MzQ4MjMxMg==.html){:target="_blank"}
 </div>
 
 &nbsp;
