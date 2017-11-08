@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>YBYARCHIVE</title>
+  {% include '_third-party/analytics/index.swig' %}
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
   <!-- Link Swiper's CSS -->
